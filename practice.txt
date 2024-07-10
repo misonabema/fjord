@@ -1,3 +1,4 @@
 practice
 これは練習です
 training
+これは訓練です
