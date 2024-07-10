@@ -2,3 +2,5 @@ practice
 これは練習です
 training
 これは訓練です
+trap
+これは罠です
