@@ -4,3 +4,5 @@ training
 これは訓練です
 trap
 これは罠です
+lie
+これは嘘です
